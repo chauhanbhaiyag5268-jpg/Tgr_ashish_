@@ -1,34 +1,26 @@
 [
     {
         "device_id": "device123",
-        "username": "user1",
-        "password": "pass123",
+        "key": "key12345",
         "expirydate": "31-12-2025",
-        "expirytime": "05-40-00",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "5b71cb602242a49d",
+        "key": "key",
+        "expirydate": "31-12-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device123",
+        "key": "key12345",
+        "expirydate": "31-12-2025",
         "Allowoffline": true
     },
     {
         "device_id": "device456",
-        "username": "user2",
-        "password": "pass456",
-        "expirydate": "19-12-2025",
-        "expirytime": "05-40-00",
+        "key": "key67890",
+        "expirydate": "15-06-2025",
         "Allowoffline": false
-    },
-    {
-        "device_id": "5b71cb602242a49d",
-        "username": "tgr_vivo_",
-        "password": "vivo1234",
-        "expirydate": "10-11-2025",
-        "expirytime": "05-34-00",
-        "Allowoffline": false
-        }
-    {
-        "device_id": "5b71cb602242a49d",
-        "username": "tgr",
-        "password": "5268",
-        "expirydate": "19-12-2025",
-        "expirytime": "05-40-00",
-        "Allowoffline": false
-    },
+    }
 ]
