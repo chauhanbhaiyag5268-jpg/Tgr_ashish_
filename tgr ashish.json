@@ -23,4 +23,12 @@
         "expirytime": "05-34-00",
         "Allowoffline": false
         }
+    {
+        "device_id": "5b71cb602242a49d",
+        "username": "tgr",
+        "password": "5268",
+        "expirydate": "19-12-2025",
+        "expirytime": "05-40-00",
+        "Allowoffline": false
+    },
 ]
